@@ -20,7 +20,10 @@ CODES AND LIBRARY
 
 - Rockmeter V12 CODE
 - Library
-- PCB FILE
+- PCB FILE ( GERBER AND EASYEDA)  
+
+![Capture d’écran, le 2021-11-01 à 10 22 41 p m](https://user-images.githubusercontent.com/61804891/139776459-003e992c-ead2-462d-8a2f-2987d4e22869.png)
+
 
 PINNOUT  
 
