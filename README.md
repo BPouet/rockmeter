@@ -1,10 +1,12 @@
 # Rockmeter
+![body](https://user-images.githubusercontent.com/61804891/139777671-14e50a7c-51be-490f-9f41-423e66c0467b.png)
 
 Rockmeter is a custom altimeter for your low or medium power rocket.  
 The arduino NANO read the data from a BMP280.  
 It gives ALTITUDE + MAX ALTITUDE + TEMPERATURE  
 When at least a 5meters is detected the GREEN LED turn RED and a buzzer BEEP.  
 The objective was to make a low budget altimeter as you sometimes lose a rocket and you don't want to say bye bye to your 100$ altimeter.  
+![screen](https://user-images.githubusercontent.com/61804891/139777685-26f79e2d-b0f1-4461-8b79-f373da2a02dd.png)
 
 PARTS NEEDED
 
