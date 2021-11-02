@@ -40,4 +40,8 @@ ADDRESS
 
 *** Did some test and the unit seems to have a 3% error margin.  
 
+REFERENCE  
+https://www.electronics-lab.com/project/arduino-bmp280-based-weather-station/
+
+
 
